@@ -1,0 +1,10 @@
+
+0	18.4152	17.9288	|  Best result at epoch 0
+1	17.8346	17.9288	|  Best result at epoch 0
+2	17.8346	17.9288	|  Best result at epoch 0
+3	17.8346	17.9288	|  Best result at epoch 0
+4	17.8346	17.9288	|  Best result at epoch 0
+5	17.8346	17.9288	|  Best result at epoch 0
+6	17.8346	17.9288	|  Best result at epoch 0
+7	17.8346	17.9288	|  Best result at epoch 0
+8	17.8346	17.9288	|  Best result at epoch 0

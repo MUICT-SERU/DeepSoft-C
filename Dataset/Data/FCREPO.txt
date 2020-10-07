@@ -1,0 +1,3 @@
+project: FCREPO 
+repo: duraspace_ph2 
+no. of components: 22 

@@ -1,0 +1,3 @@
+project: JRA 
+repo: jira 
+no. of components: 142 

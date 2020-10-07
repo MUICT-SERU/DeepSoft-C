@@ -1,0 +1,21 @@
+epoch	tr_loss	v_ppl
+0	7.3145	4058.8548	Best at epoch 0
+1	5.7547	5703.2026	Best at epoch 0
+2	5.2725	3166.9619	Best at epoch 2
+3	5.0957	3001.4998	Best at epoch 3
+4	4.9884	1847.8391	Best at epoch 4
+5	4.9091	2671.8412	Best at epoch 4
+6	4.8371	654.4866	Best at epoch 6
+7	4.7104	1577.2628	Best at epoch 6
+8	4.5724	379.6124	Best at epoch 8
+9	4.4482	318.4392	Best at epoch 9
+10	4.3570	382.2368	Best at epoch 9
+11	4.2937	629.0804	Best at epoch 9
+12	4.2435	275.0059	Best at epoch 12
+13	4.2037	194.7344	Best at epoch 13
+14	4.1687	207.2706	Best at epoch 13
+15	4.1396	188.0696	Best at epoch 15
+16	4.1089	134.2951	Best at epoch 16
+17	4.0790	177.6940	Best at epoch 16
+18	4.0459	144.8518	Best at epoch 16
+19	4.0207	187.7717	Best at epoch 16

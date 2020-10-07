@@ -1,0 +1,21 @@
+
+0	18.4966	8.0333	|  Best result at epoch 0
+1	6.6519	7.7524	|  Best result at epoch 1
+2	6.1135	7.9618	|  Best result at epoch 2
+3	5.4955	7.8604	|  Best result at epoch 3
+4	5.2798	7.8454	|  Best result at epoch 3
+5	5.0804	6.9780	|  Best result at epoch 3
+6	5.0306	7.0907	|  Best result at epoch 3
+7	4.8057	7.9067	|  Best result at epoch 3
+8	4.7730	7.1119	|  Best result at epoch 8
+9	4.7810	7.2942	|  Best result at epoch 8
+10	4.6992	6.9764	|  Best result at epoch 10
+11	4.6586	7.1072	|  Best result at epoch 10
+12	4.6783	7.0538	|  Best result at epoch 10
+13	4.7144	7.6338	|  Best result at epoch 10
+14	4.6272	6.9588	|  Best result at epoch 10
+15	4.6869	7.1116	|  Best result at epoch 10
+16	4.6193	7.0045	|  Best result at epoch 10
+17	4.6120	7.3086	|  Best result at epoch 10
+18	4.5586	6.9694	|  Best result at epoch 10
+19	4.6346	7.2002	|  Best result at epoch 10

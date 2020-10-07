@@ -1,0 +1,3 @@
+project: BAM 
+repo: jira 
+no. of components: 96 

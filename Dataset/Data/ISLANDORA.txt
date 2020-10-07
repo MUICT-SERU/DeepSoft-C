@@ -1,0 +1,3 @@
+project: ISLANDORA 
+repo: duraspace_ph2 
+no. of components: 67 

@@ -1,0 +1,9 @@
+epoch	loss	v_loss	|	v_ma_f1	v_mi_f1	v_pre	v_rec	|	t_ma_f1	t_mi_f1	t_pre	t_rec
+0	6.2120	5.8281	|  Best result at epoch 0
+1	4.9022	6.5825	|  Best result at epoch 0
+2	4.5572	5.7641	|  Best result at epoch 2
+3	4.3934	6.0582	|  Best result at epoch 2
+4	4.2531	6.2137	|  Best result at epoch 2
+5	4.1006	6.0141	|  Best result at epoch 2
+6	3.9928	6.1363	|  Best result at epoch 2
+7	3.8775	5.9837	|  Best result at epoch 2
